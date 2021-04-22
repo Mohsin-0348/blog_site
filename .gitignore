@@ -1,7 +1,8 @@
-*.ss~
-*.ss#*
-.#*.ss
-
-*.scm~
-*.scm#*
-.#*.scm
+### Django ###
+*.log
+*.pot
+__pycache__/
+*.pyc
+db.sqlite3
+.idea
+.vscode
